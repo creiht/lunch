@@ -3,6 +3,7 @@
 ## American
 
 * 410 Diner
+* J. Alexander's
 
 ## BBQ
 
