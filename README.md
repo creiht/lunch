@@ -44,3 +44,8 @@
 ## Vietmenese
 
 * Pho Cong Ly
+
+## Wings
+
+* Buffalo Wild Wings
+* East Coast Wings
