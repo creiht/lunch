@@ -12,6 +12,10 @@
 * [The Big Bib](http://thebigbib.com/)
 * Two Brother's
 
+## Chicago
+
+* Wise Guys
+
 ## Greek
 
 * Papouli's
