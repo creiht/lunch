@@ -20,6 +20,11 @@
 * Chris Madrid's
 * Longhorn Cafe
 
+## Italian
+
+* Purple Garlic
+* Ray's Pizzaria
+
 ## Korean
 
 * Go Hyang Jib
@@ -28,14 +33,14 @@
 ## Tex-Mex
 
 * [Chuy's](https://www.chuys.com/locations/san-antonio/selma)
-* [Teka Molino](http://tekamolino.com/)
 * Los Robertos
-
-## Vietmenese
-
- * Pho Cong Ly
+* [Teka Molino](http://tekamolino.com/)
 
 ## Thai
 
 * [Mon Thai](http://monsthai.com/)
 * [Tong's Thai](https://www.tongsthai.com)
+
+## Vietmenese
+
+* Pho Cong Ly
