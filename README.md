@@ -1,5 +1,7 @@
 # Where We Go to Lunch
 
+  Quick random selection: `curl -s https://raw.githubusercontent.com/greglange/lunch/master/README.md | grep '^\* ' | perl -MList::Util -e 'print List::Util::shuffle <>' | head -1`
+
 ## American
 
 * 410 Diner
